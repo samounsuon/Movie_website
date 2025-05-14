@@ -5,12 +5,9 @@
             </div>
             <nav>
                 <ul>
-                    <li><a href="#" class="active">Home</a></li>
-                    <li><a href="#">Movies</a></li>
-                    <li><a href="#">TV Shows</a></li>
-                    <li><a href="#">Categories</a></li>
-                    <li><a href="#">My List</a></li>
-                    <li><a href="/admin">Admin</a></li>
+                    <li><a href="#" class="active">Video</a></li>
+                    <li><a href="#"></a></li>
+                    
                 </ul>
             </nav>
             <div class="header-right">
